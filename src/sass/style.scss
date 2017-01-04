@@ -1,0 +1,13 @@
+@import 'partial';
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.box {
+  max-width: 1000px;
+  text-align: center;
+}

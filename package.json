@@ -1,0 +1,29 @@
+{
+  "name": "boilerplate-code",
+  "version": "1.0.0",
+  "description": "Boilerplate code for creating prototypes",
+  "main": "src/pages/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejbostian/boilerplate-code.git"
+  },
+  "author": "Emma Bostian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ejbostian/boilerplate-code/issues"
+  },
+  "homepage": "https://github.com/ejbostian/boilerplate-code#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-sass": "^3.0.0",
+    "gulp-sourcemaps": "^1.9.1",
+    "gulp-uglify": "^2.0.0"
+  }
+}
